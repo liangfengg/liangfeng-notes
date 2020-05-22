@@ -138,7 +138,9 @@ k = 8,
 return 13.
 ```
 
-解题参考：[Share my thoughts and Clean Java Code](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/discuss/85173)
+��题参考：[Share my thoughts and Clean Java Code
+
+[Leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/discuss/85173) / [力扣](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/discuss/85173)
 
 二分查找解法：
 
@@ -230,6 +232,15 @@ private void swap(int[] nums, int i, int j) {
     nums[j] = tmp;
 }
 ```
+
+类似题目：
+
+ [448\. Find All Numbers Disappeared in an Array (Easy)
+
+[Leetcode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)，寻找所有丢失的元�) / [力扣](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/)，寻找所有丢失的元�)
+ [442\. Find All Duplicates in an Array (Medium)
+
+[Leetcode](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)，寻找所有重复的元素�) / [力扣](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/description/)，寻找所有重复的元素�)
 
 # 7. 找出数组中重复的数，数组值在 [1, n] 之间
 
@@ -456,4 +467,3 @@ public int maxChunksToSorted(int[] arr) {
 
 
 
-<div align="center"><img width="320px" src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/githubio/公众号二维码-2.png"></img></div>
